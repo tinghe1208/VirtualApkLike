@@ -1,1 +1,1 @@
-include ':app', ':corelibrary', ':plugin'
+include ':app', ':CoreLibrary', ':plugin', ':AndroidStub'
